@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* nav */
+
+.container-nav{
+    height: 90px;
+    background-color: lightgreen;
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.logo{
+    height: 90px;
+    width: 110px;
+    background-color: green;
+    border: 1px solid black;
+}
+
+.nav-bar{
+    height: 90px;
+    width: 550px;
+    background-color: green;
+    border: 1px solid black;
+
+}
+
+.login{
+    height: 90px;
+    width: 110px;
+    background-color: green;
+    border: 1px solid black;
+}
